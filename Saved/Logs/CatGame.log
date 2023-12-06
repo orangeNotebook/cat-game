@@ -1506,3 +1506,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.06-21.12.48:315][  1]Running Python start-up script 'E:/UNREAL/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.067338 secs
 [2023.12.06-21.12.48:609][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2023.12.06-21.12.49:057][  3]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.06-21.14.24:104][965]LogDerivedDataCache: C:/Users/Kacper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.644 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3577 files in 4499 folders with total size 70 MiB.
